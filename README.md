@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xdrifter17](https://github.com/Xdrifter17)
 
-- 📝 You can visit my projects portfolio website as well(Paste the link in the search window, it wont work as hperlink): [datascienceportfol.io/SamadShaikh](datascienceportfol.io/SamadShaikh)
+- 📝 You can visit my projects portfolio website as well(Paste the link in the search window, it wont work as hyperlink): [datascienceportfol.io/SamadShaikh](datascienceportfol.io/SamadShaikh)
 
-- 💬 Ask me about **SQL, Python, Quality Analysis.**
+- 💬 Ask me about **SQL, Python, Quality Analysis, Football, Anime, Travel**
 
 - 📫 How to reach me **xsamad963@gmail.com**
 
