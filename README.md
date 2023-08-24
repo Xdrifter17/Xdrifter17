@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samad Shaikh</h1>
-<h3 align="center">I'm a passionate data enthusiast.</h3>
+<h3 align="center">I'm a passionate data enthusiast from Pune, India.</h3>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xdrifter17](https://github.com/Xdrifter17)
 
