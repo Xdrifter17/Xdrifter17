@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samad Shaikh</h1>
 <h3 align="center">I'm a passionate data enthusiast.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xdrifter17" alt="xdrifter17" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Xdrifter17](https://github.com/Xdrifter17)
 
 - 📝 You can visit my projects portfolio website as well(Paste the link in the search window, it wont work as hyperlink): [datascienceportfol.io/SamadShaikh](datascienceportfol.io/SamadShaikh)
