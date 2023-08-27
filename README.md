@@ -6,7 +6,7 @@
 
 - 📝 You can visit my projects portfolio website as well(Paste the link in the search window, it won't work as hyperlink): [datascienceportfol.io/SamadShaikh](datascienceportfol.io/SamadShaikh)
 
-- 💬 Ask me about **SQL, Python, Quality Analysis, Football, Anime, Travel**
+- 💬 Ask me about **SQL, Python, Quality Analysis, Football, Anime, Travel🐺**
 
 - 📫 How to reach me **xsamad963@gmail.com**
 
